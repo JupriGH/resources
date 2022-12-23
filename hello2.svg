@@ -1,7 +1,7 @@
 <svg viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
 
 
-  <foreignObject x="0" y="0" width="400" height="400">
+  <foreignObject x="1" y="1" width="400" height="400">
   <style>
     .green {
       color: green
