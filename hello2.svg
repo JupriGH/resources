@@ -1,7 +1,7 @@
-<svg style="border: 1px solid red" height="200" width="200">
-<foreignObject x="0" y="0" width="90%" height="100%"><pre style="margin:0;">aaa
-bbbb
-</pre>
-
-    </foreignObject>
-  </svg>
+<svg>    
+<foreignobject class="wow-star__text" width="100%" height="100%">
+<body xmlns="http://www.w3.org/1999/xhtml">
+<h2>html inside svg</h2>
+</body>     
+</foreignobject>
+</svg>
