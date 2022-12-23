@@ -2,8 +2,11 @@
 <foreignObject x="1" y="1" width="400" height="400">
 <style>
 .green {color: green}
-</style><pre class="green">{
+</style>
+<pre class="green">{
     "location": "New York, NY",
     "keywords": "Plumbing
-}</pre></body></foreignObject>
+}
+</pre>
+</foreignObject>
 </svg>
