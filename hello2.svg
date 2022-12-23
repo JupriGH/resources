@@ -1,4 +1,5 @@
-<svg style="border: 1px solid red" height="200" width="200"><foreignObject x="0" y="0" width="90%" height="100%"><pre style="margin:0;">aaa
+<svg style="border: 1px solid red" height="200" width="200">
+<foreignObject x="0" y="0" width="90%" height="100%"><pre style="margin:0;">aaa
 bbbb
 </pre>
 
