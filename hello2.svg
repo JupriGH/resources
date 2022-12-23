@@ -1,5 +1,5 @@
-<svg>    
-<foreignobject class="wow-star__text" width="100%" height="100%">
+<svg viewBox="0 0 300 300">    
+<foreignobject width="100%" height="100%">
 <body xmlns="http://www.w3.org/1999/xhtml">
 <h2>html inside svg</h2>
 </body>     
