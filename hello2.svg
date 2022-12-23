@@ -6,11 +6,13 @@
   </style>
 
   <foreignObject x="0" y="0" width="400" height="400">
+  <body xmlns="http://www.w3.org/1999/xhtml">
   <pre class="green">
     {
       "location": "New York, NY",
       "keywords": "Plumbing
     }
   </pre>
+  </body>
   </foreignObject>
 </svg>
