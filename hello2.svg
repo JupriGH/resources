@@ -1,15 +1,5 @@
 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    div {
-      background: pink;
-      font: 12px serif;
-      padding: 10px;
-    }
-    
-    .red {
-      color: red;
-    }
-    
     .green {
       color: green
     }
@@ -17,9 +7,12 @@
 
   <foreignObject x="20" y="20" width="160" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <input type="text">Your Name:</input>
-      <p class="red">This is red color</p>
-      <p class="green">This is green color</p>
+      <pre class="green">
+        {
+          "location": "New York",
+          "keywords": "Plumbing
+        }
+      </pre>
     </div>
   </foreignObject>
 </svg>
